@@ -65,8 +65,6 @@ termcolor
 thinc
 threadpoolctl
 tomli
-pytorch 
-pytorchvision 
 tqdm
 typer
 typing-extensions
